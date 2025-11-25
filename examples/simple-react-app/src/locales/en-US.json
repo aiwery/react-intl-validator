@@ -1,0 +1,8 @@
+{
+  "greeting": {
+    "hello": "Hello, world!"
+  },
+  "common": {
+    "description": "This is an example application for react-intl-validator."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "simple-react-app-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-intl-universal": "^1.26.0"
+  },
+  "scripts": {
+    "start": "echo 'This is a minimal example. Use your own bundler (vite/webpack) to run it.'"
+  }
+}
